@@ -31,7 +31,7 @@ Stake LP tokens, earn MCRN. You take on a little more exposure to market fluctua
 Take a look at:
 
 - Security Audit:
-  - Check out [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap)
+  - Check out [Certik’s security audit of MacaronSwap](https://www.certik.org/projects/macaronswap)
 - Transparent:
 
   - We’re built on open-source software; all our Smart Contracts are publicly visible for maximum transparency.
