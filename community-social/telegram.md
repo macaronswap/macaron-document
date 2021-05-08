@@ -4,7 +4,7 @@
 
 📣 Announcement Channel \([https://t.me/macaronswapann](https://t.me/macaronswapann)\)
 
-🏴󐁧󐁢󐁥󐁮󐁧󐁿 English Chat \([https://t.me/MacaronSwap](https://t.me/MacaronSwap)\)
+🏴 English Chat \([https://t.me/MacaronSwap](https://t.me/MacaronSwap)\)
 
 **Community Telegram Groups:**
 

@@ -6,8 +6,8 @@
 ## Core Products
 
 - [Exchange](core-products/macaronswap-exchange.md)
-- [Pools](core-products/macaronswap-pools.md)
-- [Farms](core-products/magic-box.md)
+- [Choco Falls](core-products/choco-falls.md)
+- [Magic Box](core-products/magic-box.md)
 - [Voting](core-products/voting.md)
 - [Analytics](core-products/macaronswap-analytics.md)
 

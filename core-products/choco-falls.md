@@ -11,6 +11,8 @@ Choco Falls will be split into two sections: Core and Community.
 
 Note that any project will be able to distribute tokens via Choco Falls but only projects that win a vote would be listed on the swap interface as a default option \(in order to discourage scams\).
 
+Take a look at Choco Falls [HERE](https://www.macaronswap.finance/falls)
+
 **Why would projects want to participate?**
 
 Choco Falls projects will allow projects to receive market attention by issuing tokens to the reputable community.

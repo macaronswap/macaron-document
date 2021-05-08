@@ -1,10 +1,6 @@
 # MCRN Basics
 
-\*\*\*\*
-
 ![](../.gitbook/assets/mcrnLogo.png)
-
-\*\*\*\*
 
 **Token:** MCRN
 
@@ -20,7 +16,6 @@
 
 **Emission rate:**
 
-- **Reward per block -** 0.2 MCRN _\*\*_
+- **Reward per block -** 0.2 MCRN
 - **Daily emission \(Based on 28.8k blocks per day\) -** 5760 MCRN per day
-
 - **Daily emission voting :** [Here](https://vote.macaronswap.finance/#/macaronswap.eth/proposal/QmWJhmSLacuoG7qzrCHjxLvnFVeqe7FhktQiso2WTgFEqB)
