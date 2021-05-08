@@ -1,35 +1,31 @@
 # Table of contents
 
-* [Pancake Swap Intro](README.md)
-* [FAQ](faq.md)
+- [Macaron Swap Intro](README.md)
+- [FAQ](faq.md)
 
 ## Core Products
 
-* [Exchange](core-products/pancakeswap-exchange.md)
-* [Pools](core-products/pancakeswap-pools.md)
-* [Farms](core-products/farms.md)
-* [Voting](core-products/voting.md)
-* [Analytics](core-products/pancakeswap-analytics.md)
+- [Exchange](core-products/macaronswap-exchange.md)
+- [Pools](core-products/macaronswap-pools.md)
+- [Farms](core-products/magic-box.md)
+- [Voting](core-products/voting.md)
+- [Analytics](core-products/macaronswap-analytics.md)
 
 ## Tokenomics
 
-* [CAKE Basics](tokenomics/untitled.md)
-* [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
+- [MCRN Basics](tokenomics/MCRN.md)
 
 ## Guides
 
-* [Binance Academy Guide](guides/binance-academy-guide.md)
-* [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
-* [How to use MetaMask on PancakeSwap](guides/untitled.md)
+- [How To Trade On The MacaronSwap Exchange](guides/how-to-trade-on-the-macaronswap-exchange.md)
+- [How to use MetaMask on MacaronSwap](guides/metamask.md)
 
 ## Community / Social
 
-* [Twitter](community-social/untitled.md)
-* [Telegram](community-social/discord.md)
-* [Blog \(Medium\)](community-social/blog-medium.md)
+- [Twitter](community-social/twitter.md)
+- [Telegram](community-social/telegram.md)
+- [Blog \(Medium\)](community-social/blog-medium.md)
 
 ## Code
 
-* [Github](code/github.md)
-
+- [Github](code/github.md)
